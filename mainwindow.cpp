@@ -3,7 +3,7 @@
 #include <QVBoxLayout>
 
 #include "mainwindow.h"
-#include "mediawiki.h"
+#include "quiz.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QWidget(parent)
