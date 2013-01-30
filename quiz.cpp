@@ -4,7 +4,6 @@
 #include <QStringList>
 #include <QXmlStreamReader>
 #include <QDebug>
-
 #include "quiz.h"
 
 struct MediaWikiPrivate {
