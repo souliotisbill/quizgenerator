@@ -13,7 +13,7 @@ MainWindow::MainWindow(QWidget *parent)
     layoutH = new QHBoxLayout();
 
     edit = new QComboBox();
-    editLocale->setSizeAdjustPolicy(QComboBox::AdjustToContents);
+    edit->setSizeAdjustPolicy(QComboBox::AdjustToContents);
     edit->setEditable(true);
 
     editLocale = new QComboBox(  );
