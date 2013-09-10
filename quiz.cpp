@@ -6,6 +6,7 @@
 #include <QDebug>
 #include "quiz.h"
 
+//Coomment on master
 struct MediaWikiPrivate {
     QUrl apiUrl;
     QNetworkAccessManager *manager;
