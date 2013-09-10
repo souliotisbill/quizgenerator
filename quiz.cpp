@@ -7,6 +7,7 @@
 #include "quiz.h"
 
 //Coomment on master
+//1 Comment on brver_1.0
 struct MediaWikiPrivate {
     QUrl apiUrl;
     QNetworkAccessManager *manager;
