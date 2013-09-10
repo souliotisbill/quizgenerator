@@ -8,6 +8,7 @@
 
 //Coomment on master
 //1 Comment on brver_1.0
+//2 Comment on master
 struct MediaWikiPrivate {
     QUrl apiUrl;
     QNetworkAccessManager *manager;
