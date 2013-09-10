@@ -9,6 +9,7 @@
 #include <QtWebKit/QWebView>
 #include "mainwindow.h"
 
+// Second commit on master
 class QNetworkReply;
 
 enum {
